@@ -12,4 +12,8 @@ public class master {
     public static void main(String[] args) {
         System.out.println("master dev1 and dev2 merge");
     }
+
+    void dev1() {
+
+    }
 }
