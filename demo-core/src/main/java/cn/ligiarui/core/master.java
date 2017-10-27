@@ -16,4 +16,6 @@ public class master {
     void dev1() {
 
     }
+    
+    void test2() {}
 }
