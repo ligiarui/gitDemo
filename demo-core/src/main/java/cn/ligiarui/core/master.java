@@ -18,4 +18,6 @@ public class master {
     }
     
     void test2() {}
+
+    void test1() {}
 }
